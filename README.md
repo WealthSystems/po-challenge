@@ -24,20 +24,25 @@ Somos movidos por **PESSOAS,** **DESAFIOS** e **SONHOS**.
 
 Nosso time é composto por profissionais acima da média do mercado em termos de capacitação técnica e inteligência emocional.
 
-Pessoas que com **TALENTO**, **VISÃO** e **PAIXÃO** pela tecnologia, modificam a realidade do mercado no Brasil e no exterior.
+Pessoas que com **TALENTO**, **VISÃO** e **PAIXÃO** pela tecnologia, modificam a realidade do mercado no Brasil e no exterior. 
 
-Nossa essência é feita da habilidade de **SE REINVENTAR** quando necessário, não acreditamos em apego e vaidades, para nós só faz sentido o que tem coerência com a realidade.
+Afinal **ACREDITAMOS NO BRASIL QUE FAZ**
 
-Trabalhamos para que a tecnologia **FACILITE A VIDA DAS PESSOAS** e **GERE VALOR** de forma sustentável, sendo que tudo na empresa tem o conceito **LEGAL**. Nos orgulhamos de dizer que tudo aqui é correto, dentro da lei, defendemos isso como premissa básica para a prosperidade da empresa e de nossos parceiros, clientes, profissionais e fornecedores.
+Nossa cultura é alicerçada em três pilares:
 
-Acreditamos fortemente que os nossos profissionais precisam se **APAIXONAR** pelos clientes e seus problemas; precisamos ser os defensores dos clientes (***CUSTOMER ADVOCATES***). Agimos sem idolatria e de forma diferente a de um filho que não pode ser corrigido. Os clientes dependem de nós e devemos viver intensamente o nosso **GRANDE PROPÓSITO**, com atitude da alma de contribuir significativamente, pois eles são a nossa razão.
+**Tecnologia + Conhecimento são o nosso DNA**
+Construímos um legado em um mundo de mudanças. Pensamos em como a tecnologia e o conhecimento podem juntos impulsionar a inovação hoje e sempre. Somos criativos sem medo de errar.
 
-Nosso time tem como missão **SERVIR BEM** os nossos clientes, fundamentados em nossos **VALORES**, para deixarmos sempre a marca do nosso compromisso com a **QUALIDADE NAS ENTREGAS** e **EXCELÊNCIA NO ATENDIMENTO**. Esse é um dos principais pontos que nos diferencia na nossa área de atuação e é o que tem nos impulsionado durante nossa história, sustentando nosso crescimento.
+**O sucesso do cliente é o nosso sucesso**
+Antecipamos as necessidades dos nossos clientes. Entregamos qualidade em soluções +essenciais, +simples e +ágeis para os seus negócios. Somos presentes e próximos.
 
-Buscamos **INOVAR** para alcançar o objetivo de transformar as necessidades dos nossos clientes em **SOLUÇÕES** que facilitem processos comerciais, para **POTENCIALIZAR NEGÓCIOS**, tanto no presente quanto no futuro.
+**Valorizamos gente boa que é boa gente**
+Curiosos, colaborativos, digitais e fanáticos por resultados.
+Temos atitude, estilo próprio e somos inquietos. Somos TOTVERs.
 
-Acreditamos que a tecnologia reinventa os negócios, mas as **RELAÇÕES HUMANAS** continuarão sendo a chave para o êxito; valor fundamental que sustenta nosso **TIME** e gera uniformidade nos resultados  ****finais de qualquer ação e projeto.
+Acreditamos que **IDEIA BOA** não precisa ter dono, **precisa dar certo".
 
+Acesse [https://s3.amazonaws.com/mz-filemanager/d3be5d49-62e7-4def-a3e1-ab25ff09f153/100c2cf1-84a3-4560-87c3-fa07faee9bb7_codec_codigo%20de%20etica%20e%20conduta_agosto%202020.pdf) e conheça o CODEC, Código de Ética e Conduta do Grupo TOTVS.
 
 # O que o PO faz?
 
@@ -96,7 +101,7 @@ Nosso diretor não terá muito tempo para se aprofundar no assunto, então é im
 - Lista de funcionalidades disponíveis;
 - Roadmap previsto para os próximos 3 meses (mínimo);
 
-Caso você tenha duvidas, você pode enviar suas duvidas para que os nossos coordenadores da TOTVS CRM Gestão do Cliente possam colaborar e sanar as dúvidas junto ao nosso diretor, não se preocupe em utilizar esse canal de comunicação, fazer perguntas e realizar alinhamentos faz parte do dia-a-dia do PO.
+Caso você tenha duvidas, você pode enviar suas duvidas por e-mail para que os nossos coordenadores da TOTVS CRM Gestão do Cliente (fernando.grando@totvs.com.br e patricia.pedroso@totvs.com.br) possam colaborar e sanar as dúvidas junto ao nosso diretor, não se preocupe em utilizar esse canal de comunicação, fazer perguntas e realizar alinhamentos faz parte do dia-a-dia do PO.
 
 ## Apresentação do desafio
 
