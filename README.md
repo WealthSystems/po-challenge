@@ -101,7 +101,7 @@ Nosso diretor não terá muito tempo para se aprofundar no assunto, então é im
 - Lista de funcionalidades disponíveis;
 - Roadmap previsto para os próximos 3 meses (mínimo);
 
-Caso você tenha duvidas, você pode enviar suas duvidas por e-mail para que os nossos coordenadores da TOTVS CRM Gestão do Cliente (fernando.grando@totvs.com.br e patricia.pedroso@totvs.com.br) possam colaborar e sanar as dúvidas junto ao nosso diretor, não se preocupe em utilizar esse canal de comunicação, fazer perguntas e realizar alinhamentos faz parte do dia-a-dia do PO.
+Caso você tenha duvidas, você pode envia-las por e-mail para pochallenge.totvscrm@totvs.com.br, assim você poderá sanar as dúvidas junto ao nosso diretor, não se preocupe em utilizar esse canal de comunicação, fazer perguntas e realizar alinhamentos faz parte do dia-a-dia do PO.
 
 ## Apresentação do desafio
 
