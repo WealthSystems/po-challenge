@@ -1,16 +1,20 @@
 # PO Challenge
 
-# Wealth Systems
+# TOTVS 
 
-Wealth Systems trabalha para que a tecnologia facilite a vida das pessoas e gere valor de forma sustentável, transformando a vida das pessoas. Se você é apaixonado por tecnologia, gosta de desafios e está disposto a romper e superar dificuldades criando e desenvolvendo soluções, venha ser nosso Product Owner!
+Nossa tecnologia dita o ritmo do mercado. Afinal, 25% do PIB brasileiro passa pelos softwares presentes em mais de 40 mil empresas clientes da TOTVS.
 
-As soluções Master (CRM e Sales) são focadas nos processos mais modernos de Gestão do Relacionamento com Clientes e as melhores práticas de inteligência comercial para potencialização de vendas.
+Para que isso aconteça precisamos ser ágeis, pois as coisas aqui acontecem em uma velocidade acima da média. No nosso dia-dia, aprendemos muito e muito rápido, em um ambiente leve, divertido e desafiador.
 
-### MasterCRM
+Se você é apaixonado por tecnologia, desafios, e se motiva por tornar os clientes mais competitivos através de produtos que agreguem valor e despertem admiração. Sendo o responsável por maximizar o valor do produto, venha ser nosso Product Owner! 
+
+As soluções da TOTVS CRM são focadas em processos modernos de Gestão do Relacionamento com Clientes e as melhores práticas de inteligência comercial para potencialização de vendas.
+
+### Gestão do cliente 
 
 Além de otimizar o processo de comunicação entre diversos setores, a solução de CRM contempla módulos que automatizam processos de vendas e relacionamento, permitindo mais eficiência e produtividade.
 
-### MasterSales
+### Automação da Força de Vendas
 
 Um sistema completo de automação comercial que possibilita aumentar a efetividade da sua equipe de vendas. Dê um poder de tomar as melhores decisões, potencializando suas vendas e atingindo metas.
 
@@ -34,7 +38,6 @@ Buscamos **INOVAR** para alcançar o objetivo de transformar as necessidades d
 
 Acreditamos que a tecnologia reinventa os negócios, mas as **RELAÇÕES HUMANAS** continuarão sendo a chave para o êxito; valor fundamental que sustenta nosso **TIME** e gera uniformidade nos resultados  ****finais de qualquer ação e projeto.
 
-Acesse [http://bit.ly/CodigodeCulturaWS](http://bit.ly/CodigodeCulturaWS) e conheça mais sobre o jeito WS de ser.
 
 # O que o PO faz?
 
@@ -75,13 +78,13 @@ Acesse [http://bit.ly/CodigodeCulturaWS](http://bit.ly/CodigodeCulturaWS) e co
 
 # Qual nosso objetivo?
 
-Nosso objetivo é simular mesmo que de forma assíncrona uma série de atividades que vão ser realizadas e conduzida pelo Product Owner aqui na Wealth Systems. 
+Nosso objetivo é simular mesmo que de forma assíncrona uma série de atividades que vão ser realizadas e conduzida pelo Product Owner aqui na TOTVS CRM. 
 
 # Desafio
 
 ## Contexto
 
-Você é Product Owner da Wealth System e está liderando o SQUAD de CRM das soluções Master, na próxima semana, nosso diretor comercial terá uma importante reunião com um grande stakeholder que está disposto a investir 20 milhões em nosso produto, para essa reunião nosso diretor precisa levar uma visão macro das funcionalidades de CRM do nosso produto, além disso ele precisa apresentar uma visão do roadmap de evolução priorizada para os próximos 3 meses.
+Você é Product Owner da TOTVS CRM e está liderando o SQUAD de CRM Gestão do Cliente, na próxima semana, nosso diretor terá uma importante reunião com um grande stakeholder que está disposto a investir 20 milhões em nosso produto, para essa reunião nosso diretor precisa levar uma visão macro das funcionalidades de CRM do nosso produto, além disso ele precisa apresentar uma visão do roadmap de evolução priorizada para os próximos 3 meses.
 
 Use seu próprio julgamento para priorizar quais são as funcionalidades mais importantes para CRM, maximizando sempre a entrega de valor aos nossos clientes, fique a vontade para trazer itens não priorizados, lembrando que todo produto possui um vasto roadmap de evoluções e não necessariamente tudo está priorizado. 
 
@@ -93,8 +96,8 @@ Nosso diretor não terá muito tempo para se aprofundar no assunto, então é im
 - Lista de funcionalidades disponíveis;
 - Roadmap previsto para os próximos 3 meses (mínimo);
 
-Caso você tenha duvidas, você pode enviar suas duvidas para po@wssim.com.br que nosso diretor vai conseguir te apoiar, não se preocupe em utilizar esse canal, fazer perguntas e realizar alinhamentos faz parte do dia-a-dia do PO.
+Caso você tenha duvidas, você pode enviar suas duvidas para que os nossos coordenadores da TOTVS CRM Gestão do Cliente possam colaborar e sanar as dúvidas junto ao nosso diretor, não se preocupe em utilizar esse canal de comunicação, fazer perguntas e realizar alinhamentos faz parte do dia-a-dia do PO.
 
 ## Apresentação do desafio
 
-Após concluída essas atividades, você irá apresentar e justificar quais decisões você precisou tomar e quais critérios/dados você utilizou para tomar essas decisões, essa apresentação será realizada para um dos nossos Product Manager ou Product Owner, apenas com o objetivo de tirar duvidas e entender um pouco mais sobre a solução.
+Após concluída essas atividades, você irá apresentar e justificar quais decisões você precisou tomar e quais critérios/dados você utilizou para tomar essas decisões, essa apresentação será realizada para os nossos coordenadores ou Product Owner, apenas com o objetivo de tirar duvidas e entender um pouco mais sobre a solução.
