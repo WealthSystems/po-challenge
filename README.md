@@ -28,22 +28,25 @@ Pessoas que com **TALENTO**, **VISÃO** e **PAIXÃO** pela tecnologia, modi
 
 Afinal **ACREDITAMOS NO BRASIL QUE FAZ.**
 
+
 Nossa cultura é alicerçada em três pilares:
 
-**Tecnologia + Conhecimento são o nosso DNA.**
+### Tecnologia + Conhecimento são o nosso DNA.
 
 Construímos um legado em um mundo de mudanças. Pensamos em como a tecnologia e o conhecimento podem juntos impulsionar a inovação hoje e sempre. Somos criativos sem medo de errar.
 
-**O sucesso do cliente é o nosso sucesso.**
+
+### O sucesso do cliente é o nosso sucesso.
 
 Antecipamos as necessidades dos nossos clientes. Entregamos qualidade em soluções +essenciais, +simples e +ágeis para os seus negócios. Somos presentes e próximos.
 
-**Valorizamos gente boa que é boa gente.**
+
+### Valorizamos gente boa que é boa gente.
 
 Curiosos, colaborativos, digitais e fanáticos por resultados.
 Temos atitude, estilo próprio e somos inquietos. Somos TOTVERs.
 
-Acreditamos que **IDEIA BOA** não precisa ter dono, **precisa dar certo".
+Acreditamos que **IDEIA BOA** não precisa ter dono, **precisa dar certo**.
 
 Acesse [https://s3.amazonaws.com/mz-filemanager/d3be5d49-62e7-4def-a3e1-ab25ff09f153/100c2cf1-84a3-4560-87c3-fa07faee9bb7_codec_codigo%20de%20etica%20e%20conduta_agosto%202020.pdf) e conheça o CODEC, Código de Ética e Conduta do Grupo TOTVS.
 
