@@ -26,17 +26,20 @@ Nosso time é composto por profissionais acima da média do mercado em termos de
 
 Pessoas que com **TALENTO**, **VISÃO** e **PAIXÃO** pela tecnologia, modificam a realidade do mercado no Brasil e no exterior. 
 
-Afinal **ACREDITAMOS NO BRASIL QUE FAZ**
+Afinal **ACREDITAMOS NO BRASIL QUE FAZ.**
 
 Nossa cultura é alicerçada em três pilares:
 
-**Tecnologia + Conhecimento são o nosso DNA**
+**Tecnologia + Conhecimento são o nosso DNA.**
+
 Construímos um legado em um mundo de mudanças. Pensamos em como a tecnologia e o conhecimento podem juntos impulsionar a inovação hoje e sempre. Somos criativos sem medo de errar.
 
-**O sucesso do cliente é o nosso sucesso**
+**O sucesso do cliente é o nosso sucesso.**
+
 Antecipamos as necessidades dos nossos clientes. Entregamos qualidade em soluções +essenciais, +simples e +ágeis para os seus negócios. Somos presentes e próximos.
 
-**Valorizamos gente boa que é boa gente**
+**Valorizamos gente boa que é boa gente.**
+
 Curiosos, colaborativos, digitais e fanáticos por resultados.
 Temos atitude, estilo próprio e somos inquietos. Somos TOTVERs.
 
